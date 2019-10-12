@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570920815 source:d:\hd documentos\3 - casarocha\aplicativo\back-end\version 0.0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
